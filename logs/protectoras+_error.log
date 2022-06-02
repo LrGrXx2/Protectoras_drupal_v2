@@ -1,0 +1,4 @@
+[Thu Apr 28 10:04:48.494383 2022] [ssl:warn] [pid 1] AH01906: protectoras+.vm:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Apr 28 10:04:48.494459 2022] [ssl:warn] [pid 1] AH01909: protectoras+.vm:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 28 10:04:48.535312 2022] [ssl:warn] [pid 1] AH01906: protectoras+.vm:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Apr 28 10:04:48.535347 2022] [ssl:warn] [pid 1] AH01909: protectoras+.vm:443:0 server certificate does NOT include an ID which matches the server name
