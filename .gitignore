@@ -5,7 +5,7 @@
 /.idea/
 
 # Ignore web and dist folder.
-/web/
+#/web/
 /dist/
 
 # Ignore local configuration files.
